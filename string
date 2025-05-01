@@ -1,3 +1,0 @@
-my_string = "Hello, World!"
-print(my_string[0]) # Output: H
-print(my_string[7]) # Output: W
